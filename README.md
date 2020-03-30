@@ -1,0 +1,2 @@
+# mawzir-lib
+YES
