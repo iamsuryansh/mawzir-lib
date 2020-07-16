@@ -1,4 +1,2 @@
-# mawzir-lib
-YES
-this is a readme file
-you're reading a readme file
+# projects
+1. path finding algorithm - aStar
